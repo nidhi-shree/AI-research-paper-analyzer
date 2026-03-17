@@ -2,17 +2,7 @@
 
 <div align="center">
 
-<!-- TODO: Add project logo (e.g., an icon representing AI, research, or analysis) -->
-
-[![GitHub stars](https://img.shields.io/github/stars/nidhi-shree/AI-research-paper-analyzer?style=for-the-badge)](https://github.com/nidhi-shree/AI-research-paper-analyzer/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/nidhi-shree/AI-research-paper-analyzer?style=for-the-badge)](https://github.com/nidhi-shree/AI-research-paper-analyzer/network)
-[![GitHub issues](https://img.shields.io/github/issues/nidhi-shree/AI-research-paper-analyzer?style=for-the-badge)](https://github.com/nidhi-shree/AI-research-paper-analyzer/issues)
-[![GitHub license](https://img.shields.io/github/license/nidhi-shree/AI-research-paper-analyzer?style=for-the-badge)](LICENSE) <!-- TODO: Add LICENSE file if not present -->
-
 **An AI-powered web application to effortlessly summarize, analyze, and peer-review research papers using the Gemini API and Gradio.**
-
-<!-- TODO: Add Live Demo Link if deployed -->
-<!-- [Live Demo](https://demo-link.com) -->
 
 </div>
 
